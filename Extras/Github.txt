@@ -1,0 +1,40 @@
+Repositorio de github [bitacora]
+
+Modulos y Sub-modulos:
+
+-Bienvenida [#README]
+           ->texto de introduccion e induccion al proyecto
+           ->contacto
+           ->agradecimientos/socios/integrantes
+           ->extra/observaciones/referencias
+
+-Documentacion
+           ->Reportes
+           ->Archivos Alideth
+           ->Cronograma (Diagrama de Gantt)
+           ->Planeacion (Actividades)
+           ->Organizacion (Reparto)
+           ->Fases
+
+-Diagramas Electricos
+           ->Decripcion de funciones
+           ->circuito de potencia Eagle
+           ->circuito de control Eagle
+          
+-Simulaciones
+           ->Simulacion arduino circuito de potencia Proteus
+           ->Simulacion arduino I2C Circuito de control Proteus
+           ->Simulacion arduino Sistema Completo maquina centrifuga Proteus
+
+Programacion Arduino
+           ->Programacion Menus
+           ->Programacion Timer
+           ->Programacion Circuito de Control
+           ->Programacion Sistema de Control
+           ->Programacion Final
+
+Diseño
+           ->Planos de instalacion AutoCAD
+           ->Modelado 3D de piezas SolidWorks
+           ->PCB circuito de potencia Eagle
+           ->PCB circuito de control Eagle
